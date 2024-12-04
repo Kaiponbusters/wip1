@@ -3,7 +3,6 @@
     <PageHeader />
     <InformationIcon />
     <PageBody />
-
     <!-- 下記slotはNuxyLayoutコンポーネントの子要素に差し替わる -->
     <slot />
   </div>
