@@ -1,5 +1,6 @@
 <template>
     <div>
+	<NuxtLink to='settingPage'>Ý’èƒy[ƒW‚Ö</NuxtLink>
     </div>
 </template>
 
