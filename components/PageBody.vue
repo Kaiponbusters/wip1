@@ -26,7 +26,7 @@
 
 <script setup lang="ts">
 import { ref, computed } from 'vue';
-import CoutionaryInformationDisplay from './CoutionaryInformationDisplay.vue';
+//import CoutionaryInformationDisplay from './CoutionaryInformationDisplay.vue';
 
 //テストデータ 仕様は後ほど変更(データをデータベースから持ってくるようにする)
 //コンポーネントは切り分ける予定
